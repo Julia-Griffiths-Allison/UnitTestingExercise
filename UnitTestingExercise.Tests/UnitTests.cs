@@ -55,6 +55,5 @@ namespace UnitTestingExercise.Tests
             //Assert
             actual.Equals(expected);
         }
-
     }
 }
